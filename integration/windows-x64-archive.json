@@ -1,0 +1,8 @@
+{
+  "dllSha256": "73b672f90beba282e04ae6dd9dbcb7b3af574d192977ae9224c382075dbcd740",
+  "archive": "libwebrtc-win-x64-release.zip",
+  "archiveSha256": "38388ef11c2a9ee959592c14cbbd5eb88596698c1e2633a52cbfc8dca9b5f5a4",
+  "importLibrarySha256": "f92bfb58df178b654ddce4016138f0c0d29ebb2a2595ff62973328941f813cdb",
+  "headersTreeSha256": "f58b80e12ffc3cc3ed35f4d56813b390f4d4d8f0655c6ec6bce9f6590708dc05",
+  "verifiedFiles": 50
+}
